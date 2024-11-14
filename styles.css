@@ -1,0 +1,124 @@
+table, th, td {
+    border: 1px solid maroon;
+}
+.a1{
+    border: 2px solid blue;
+    border-radius: 1px;
+}
+.a2 {
+    border: 4px solid maroon;
+}
+.a4{
+    border: 2px solid blue;
+    border-radius: 1px;
+}
+.a3 {
+    border: 4px solid maroon;
+}
+.a5 {
+    color: yellow;
+    margin-left: 18px;
+    margin-top: -4px
+}
+.a6 {
+    color: red;
+    margin-left: 35px;
+    margin-top: -47px
+}
+.a7 {
+    color: green;
+    margin-left: 55px;
+    margin-top: -47px
+}
+.a8 {
+    color: blue;
+    margin-left: 75px;
+    margin-top: -47px
+}
+.a9 {
+    color: orange;
+    margin-left: 91px;
+    margin-top: -48px
+}
+.a10 {
+    color: red;
+    margin-left: 150px;
+    margin-top: -47px
+}
+.a11 {
+    color: green;
+    margin-left: 165px;
+    margin-top: -48px
+}
+.a12 {
+    color: blue;
+    margin-left: 180px;
+    margin-top: -47px
+}
+.a13 {
+    color: orange;
+    margin-left: 195px;
+    margin-top: -47px
+}
+.a14 {
+    color: yellow;
+    margin-left: 210px;
+    margin-top: -47px
+}
+.a15 {
+    color: red;
+    margin-left: 225px;
+    margin-top: -47px
+}
+.a16{
+    color: darkred;
+    margin-left: 240px;
+    margin-top: -48px
+}
+.a17{
+    color: crimson;
+    margin-left: 255px;
+    margin-top: -49px
+}
+.a18{
+    color:gold;
+    margin-left: 270px;
+    margin-top: -48px
+}
+h2{
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+.b1{
+    color: white;
+    background-color: yellow;
+}
+.b2{
+    color: white;
+    background-color: red;
+}
+.b3{
+    color: white;
+    background-color: green;
+}
+.b4{
+    color: white;
+    background-color: blue;
+}
+.b5{
+    color: white;
+    background-color: violet;
+}
+.b6{
+    color: white;
+    background-color: orange;
+}
+.b7{
+    color: white;
+    background-color: crimson;
+}
